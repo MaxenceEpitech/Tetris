@@ -1,7 +1,7 @@
 # tetris
 
 ### Utilisation:
-Tetris dans shell :
+Tetris shell :
 ```
 $ make re
 $ ./tetris [options] [-help]
