@@ -1,4 +1,4 @@
-# tetris
+# Tetris
 
 ### Utilisation:
 Tetris shell :
