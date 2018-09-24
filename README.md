@@ -1,4 +1,4 @@
-# 42sh
+# tetris
 
 ### Utilisation:
 Tetris dans shell :
