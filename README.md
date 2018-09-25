@@ -1,6 +1,6 @@
 # Tetris
 
-### Utilisation:
+### Utilisation :
 Tetris shell :
 ```
 $ make re
