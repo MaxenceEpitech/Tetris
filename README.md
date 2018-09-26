@@ -21,4 +21,4 @@ As bonus the project has also been made with the graphical library : csfml.
 
 It had been coded following Epitech's standart.
 
-More informations in 42sh.pdf.
+More informations in Tetris.pdf.
