@@ -1,23 +1,24 @@
 # Tetris
 
-### Utilisation :
-Tetris shell :
+### Use of Shell version :
 ```
 $ make re
 $ ./tetris [options] [-help]
 ```
 
-Tetris graphique :
+### Use of Graphical version :
 ```
 $ cd bonus/
 $ make re
 $ ./tetris
 ```
 
-### Informations sur le projet:
+### Project Informations :
 
-Reproduction du jeux tetris dans un terminal.
+Tetris project is the realisation of the tetris game made with ncurses library.
 
-Bonus : Le jeux reproduit avec la librairie graphique CSFML et des bonus en jeu.
+As bonus the project has also been made with the graphical library : csfml.
 
-Plus d'informations dans tetris.pdf.
+It had been coded following Epitech's standart.
+
+More informations in 42sh.pdf.
