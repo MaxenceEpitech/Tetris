@@ -1,5 +1,6 @@
 # Tetris
-###Demo : 
+
+### Demo : 
 ![](public/demo.gif)
 
 ### Use of Shell version :
